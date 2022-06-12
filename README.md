@@ -4,5 +4,5 @@ yDocker is toy level container engine and this project aims to learn how docker 
 
 # usage
 ```shell
-./ydocker run ti /bin/sh
+./ydocker run -ti /bin/sh
 ```
